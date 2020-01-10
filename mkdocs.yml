@@ -1,8 +1,14 @@
 site_name: 鸿鹄云
+site_url: http://www.swanyun.com/
 
 nav:
-  - 首页: index.md
+  - 快速开始: quick-start.md
+  - 基础配置: configuration.md
   - 模板语法: template.md
-  - 常见问题: fqa.md
+  - 常见问题: faq.md
 
 theme: readthedocs
+
+copyright: © 2020 广州厚极信息科技有限公司. All Rights Seserved.
+
+plugins: []
