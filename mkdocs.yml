@@ -1,0 +1,8 @@
+site_name: 鸿鹄云
+
+nav:
+  - 首页: index.md
+  - 模板语法: template.md
+  - 常见问题: fqa.md
+
+theme: readthedocs
