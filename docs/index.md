@@ -22,7 +22,7 @@
 
 ## 文档目录
 
-+ [快速开始](/quick-start)
-+ [基础配置](/configuration)
-+ [模板语法](/template)
-+ [常见问题](/faq)
++ [快速开始](/zh_CN/latest/quick-start)
++ [基础配置](/zh_CN/latest/configuration)
++ [模板语法](/zh_CN/latest/template)
++ [常见问题](/zh_CN/latest/faq)
