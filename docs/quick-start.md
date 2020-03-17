@@ -9,7 +9,7 @@
 ## 下载及安装
 执行以下命令进行下载和安装：
 
-    yum install -y wget && wget -O install.sh http://www.swanyun.com/downloads/install.sh && sh install.sh
+    yum install -y wget && wget -O install.sh https://swan-release.oss-cn-shanghai.aliyuncs.com/version/install.sh && sh install.sh
 
 安装过程中，需要您依次确认如下配置：
 
@@ -26,4 +26,4 @@
 
 确认如上两个配置后，稍候片刻即可。
 
-安装完成后，将会显示后台管理地址，请在防火墙配置中打开对应端口，完成后您可以通过该地址进入管理页面。
+安装完成后，将会显示后台管理地址，请在防火墙配置中打开对应端口以及56439端口，完成后您可以通过该地址进入管理页面。
