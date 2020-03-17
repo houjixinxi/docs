@@ -9,7 +9,7 @@
 ## 下载及安装
 执行以下命令进行下载和安装：
 
-    yum install -y wget && wget -O install.sh https://swan-release.oss-cn-shanghai.aliyuncs.com/version/install.sh && sh install.sh
+    yum install -y wget && wget -O install.sh http://download.swanyun.com/version/install.sh && sh install.sh
 
 安装过程中，需要您依次确认如下配置：
 
